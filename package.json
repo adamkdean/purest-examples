@@ -2,9 +2,9 @@
   "name": "purest-examples",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node lib/index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/adamkdean/purest-examples/issues"
   },
-  "homepage": "https://github.com/adamkdean/purest-examples#readme"
+  "homepage": "https://github.com/adamkdean/purest-examples#readme",
+  "dependencies": {
+    "purest": "^2.0.1"
+  }
 }
