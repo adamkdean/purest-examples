@@ -4,5 +4,11 @@
       "key": "<consumer_key>",
       "secret": "<consumer_secret>"
     }
+  },
+  "tumblr": {
+    "consumer": {
+      "key": "<consumer_key>",
+      "secret": "<consumer_secret>"
+    }
   }
 }

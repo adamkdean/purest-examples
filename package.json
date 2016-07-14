@@ -19,6 +19,7 @@
   "homepage": "https://github.com/adamkdean/purest-examples#readme",
   "dependencies": {
     "oauth": "^0.9.14",
+    "oauth-1.0a": "^1.0.1",
     "purest": "^2.0.1",
     "request": "^2.73.0"
   }
